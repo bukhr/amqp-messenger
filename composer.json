@@ -1,7 +1,7 @@
 {
-    "name": "symfony/amqp-messenger",
+    "name": "bukhr/amqp-messenger",
     "type": "symfony-messenger-bridge",
-    "description": "Symfony AMQP extension Messenger Bridge",
+    "description": "Symfony AMQP extension Messenger Bridge fork for buk",
     "keywords": [],
     "homepage": "https://symfony.com",
     "license": "MIT",
@@ -13,6 +13,9 @@
         {
             "name": "Symfony Community",
             "homepage": "https://symfony.com/contributors"
+        },
+        {
+            "name": "bukhr"
         }
     ],
     "require": {
